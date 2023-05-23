@@ -1,7 +1,7 @@
 class Todo {
   constructor(title) {
     this.title = title;
-    this.isComplete = "Complete";
+    this.isComplete = "UnComplete";
   }
 }
 
