@@ -1,14 +1,11 @@
-#todoList label{
+#todoList label {
   width: 80%;
 }
-#todoList li{
+#todoList li {
   list-style-type: none;
 }
-.completed{
 
-}
-
-#todoList .btn{
+#todoList .btn {
   margin-left: 10px;
 }
 
